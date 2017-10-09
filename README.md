@@ -9,14 +9,14 @@ The transfer learning library for the following paper:<br>
 This package will include **Caffe,PyTorch and TensorFlow** implementations for transfer learning.<br> 
 The pytorch and tensorflow versions are under developing.<br>
 The code was written by <br>
-# Applications
-# Getting Started
+## Applications
+## Getting Started
 Refer to [Xlearn on Caffe](https://github.com/thuml/Xlearn/blob/master/caffe/README.md) to learn how to get started with our [Caffe version](https://github.com/thuml/Xlearn/tree/master/caffe).<br>
-# Datasets
+## Datasets
 In `caffe/data/office/*.txt`, we give the lists of three domains in [Office](https://cs.stanford.edu/~jhoffman/domainadapt/#datasets_code) dataset.<br>
 <br>
 We have published the Image-Clef dataset we use [here](https://drive.google.com/file/d/0B9kJH0-rJ2uRS3JILThaQXJhQlk/view?usp=sharing).<br>
-# Citation
+## Citation
 If you use this code for your research, please consider citing:<br>
 ```
 @inproceedings{DBLP:conf/icml/LongC0J15,
@@ -71,7 +71,7 @@ If you use this code for your research, please consider citing:<br>
       bibsource = {dblp computer science bibliography, http://dblp.org}
     }
 ```
-# Contact
+## Contact
 If you have any problem about our code, feel free to contact<br>
 
 * zhuhan10@gmail.com
