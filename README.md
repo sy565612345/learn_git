@@ -8,7 +8,7 @@ The transfer learning library for the following paper:<br>
 
 This package will include **Caffe,PyTorch and TensorFlow** implementations for transfer learning.<br> 
 The pytorch and tensorflow versions are under developing.<br>
-The code was written by <br>
+The code was written by [Han Zhu](https://github.com/zhuhan1236), [Zhangjie Cao](https://github.com/caozhangjie), [Shichen Liu](https://github.com/ShichenLiu) and [Mingsheng Long](https://github.com/longmingsheng).<br>
 ## Applications
 ## Getting Started
 Refer to [Xlearn on Caffe](https://github.com/thuml/Xlearn/blob/master/caffe/README.md) to get started with our [Caffe version](https://github.com/thuml/Xlearn/tree/master/caffe).<br>
